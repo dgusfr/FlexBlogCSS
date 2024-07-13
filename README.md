@@ -5,7 +5,7 @@ Um blog de exemplo desenvolvido com HTML e CSS utilizando Flexbox.
 ## Interface
 
 <div align="center">
-  <img src="img/logo.png" alt="Imagem do Projeto" width="100">
+  <img src="img/logo.png" alt="Imagem do Projeto" width="900">
 </div>
 
 ## Sumário
@@ -69,3 +69,14 @@ Exemplo de código do projeto:
   </div>
 </header>
 ```
+
+## Como Usar
+
+`1.` Clone o repositório para o seu ambiente local.
+
+`2.` Abra o arquivo index.html no seu navegador preferido.
+
+`3.` Navegue pelas diferentes seções do blog.
+
+## Autor
+Desenvolvido no curso de Flexbox da Origamid.
